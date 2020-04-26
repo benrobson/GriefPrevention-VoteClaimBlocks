@@ -1,0 +1,6 @@
+main: me.benrobson.GriefPreventionVoteClaimBlocks.GriefPreventionVoteClaimBlocksMain
+name: GriefPrevention-VoteClaimBlocks
+version: 1.0
+author: Ben Robson
+api-version: 1.13
+depend: [GriefPrevention, Votifier]
