@@ -1,8 +1,8 @@
-package me.benrobson.GriefPreventionVoteClaimBlocks;
+package me.benrobson.VotifierListener;
 
 public class Variables {
-    static GriefPreventionVoteClaimBlocksMain plugin;
-    public Variables (GriefPreventionVoteClaimBlocksMain plugin) {
+    static VotifierListenerMain plugin;
+    public Variables (VotifierListenerMain plugin) {
         this.plugin = plugin;
     }
 

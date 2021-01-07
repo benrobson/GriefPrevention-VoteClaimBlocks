@@ -1,2 +1,5 @@
-prefix: '&7&l[&e&GPVCB&7&l]&r'
+prefix: '&7&l[&e&VL&7&l]&r'
 claimblocks: 200
+commands:
+  - "adjustbonusclaimblocks %USERNAME% %CLAIMBLOCKS%"
+  - "msg %USERNAME% Thanks for voting, we just gave you more claim blocks :)"
